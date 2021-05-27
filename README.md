@@ -13,7 +13,7 @@ sudo pacman -S --needed desktop-file-utils freetype2 hicolor-icon-theme libmodpl
 ```
 ## 2. Clone repo with ```git clone https://github.com/IsaacMvmv/Robot_rpi```
 ## 3. Cd to repo
-## 4. Give execution permission to launch.sh and love_armhf/love like ```chmod +x launch.sh love_armhf/love```
+## 4. Give execution permission to launch.sh and love_10_armhf/love like ```chmod +x launch.sh love_10_armhf/love```
 ## 5. run script and enjoy :D
 
 
